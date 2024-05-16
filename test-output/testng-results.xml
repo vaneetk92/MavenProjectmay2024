@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Verify the user displayed after login]]>
+    </line>
+    <line>
+      <![CDATA[Value-->true]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-15T14:44:25 EDT" name="Default suite" finished-at="2024-05-15T14:44:32 EDT" duration-ms="6670">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T14:44:25 EDT" name="Default test" finished-at="2024-05-15T14:44:32 EDT" duration-ms="6670">
+      <class name="testcases.MyInfoTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testcases.MyInfoTest@676cf48]" started-at="2024-05-15T14:44:25 EDT" name="beforeClass" finished-at="2024-05-15T14:44:31 EDT" duration-ms="6125" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verify the user displayed after login]]>
+            </line>
+            <line>
+              <![CDATA[Value-->true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="VerifyThe_Menu_Item_Count_On_Myinfo()[pri:1, instance:testcases.MyInfoTest@676cf48]" started-at="2024-05-15T14:44:31 EDT" name="VerifyThe_Menu_Item_Count_On_Myinfo" description="Verify my Info Item Count" finished-at="2024-05-15T14:44:31 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThe_Menu_Item_Count_On_Myinfo -->
+        <test-method signature="VerifyThe_Menu_Item_Text_On_Myinfo()[pri:2, instance:testcases.MyInfoTest@676cf48]" started-at="2024-05-15T14:44:31 EDT" name="VerifyThe_Menu_Item_Text_On_Myinfo" description="Verify my Info Item Text " finished-at="2024-05-15T14:44:31 EDT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThe_Menu_Item_Text_On_Myinfo -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testcases.MyInfoTest@676cf48]" started-at="2024-05-15T14:44:31 EDT" name="afterClass" finished-at="2024-05-15T14:44:32 EDT" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.MyInfoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

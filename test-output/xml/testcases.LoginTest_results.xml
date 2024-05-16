@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.680">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TC001_Login_Successful"
+                time="3.026"
+                classname="testcases.LoginTest">
+            </testcase>
+            <testcase
+                name="TC004_Forgot_Password_Cancel"
+                time="1.534"
+                classname="testcases.LoginTest">
+            </testcase>
+            <testcase
+                name="TC002_Login_UnSuccessful"
+                time="1.120"
+                classname="testcases.LoginTest">
+            </testcase>
+</testsuite>

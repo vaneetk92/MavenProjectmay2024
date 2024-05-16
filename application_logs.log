@@ -1,0 +1,7 @@
+2024-05-14 16:05:254 LoginTest [INFO] Launch Browser and Open URL
+2024-05-14 16:05:259 CrossBrowser [INFO] read Config File
+2024-05-14 16:05:259 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-14 16:05:386 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-14 16:05:391 CrossBrowser [INFO] Implicit Wait15
+2024-05-14 16:05:392 LoginTest [INFO] Initializing all Page Objects
+2024-05-14 16:05:404 LoginTest [INFO] Login to Application 

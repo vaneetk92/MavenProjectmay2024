@@ -1,0 +1,92 @@
+2024-05-13 16:05:706 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 16:05:710 CrossBrowser [INFO] read Config File
+2024-05-13 16:05:711 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 16:05:63 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 16:05:67 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 16:05:67 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 16:05:81 LoginTest [INFO] Login to Application 
+2024-05-13 16:05:354 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 16:05:687 DashboardPage [INFO] Value-->true
+2024-05-13 16:05:690 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 16:05:690 CrossBrowser [INFO] read Config File
+2024-05-13 16:05:690 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 16:05:588 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 16:05:591 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 16:05:591 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 16:05:592 LoginTest [INFO] Login to Application 
+2024-05-13 16:05:856 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 16:05:157 DashboardPage [INFO] Value-->true
+2024-05-13 17:05:584 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 17:05:586 CrossBrowser [INFO] read Config File
+2024-05-13 17:05:587 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 17:05:06 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 17:05:09 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 17:05:10 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 17:05:21 LoginTest [INFO] Login to Application 
+2024-05-13 17:05:282 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 17:05:565 DashboardPage [INFO] Value-->true
+2024-05-13 17:05:568 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 17:05:568 CrossBrowser [INFO] read Config File
+2024-05-13 17:05:568 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 17:05:460 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 17:05:462 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 17:05:462 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 17:05:464 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 17:05:464 CrossBrowser [INFO] read Config File
+2024-05-13 17:05:464 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 17:05:295 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 17:05:298 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 17:05:298 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 17:05:885 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 17:05:887 CrossBrowser [INFO] read Config File
+2024-05-13 17:05:887 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 17:05:532 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 17:05:534 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 17:05:535 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 17:05:546 LoginTest [INFO] Login to Application 
+2024-05-13 17:05:844 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 17:05:167 DashboardPage [INFO] Value-->true
+2024-05-13 17:05:212 LoginPage [INFO] Check for Login Page Display
+2024-05-13 17:05:489 LoginPage [INFO] Value-->true
+2024-05-13 18:05:243 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 18:05:245 CrossBrowser [INFO] read Config File
+2024-05-13 18:05:245 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 18:05:706 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 18:05:709 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 18:05:709 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 18:05:721 LoginTest [INFO] Login to Application 
+2024-05-13 18:05:957 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 18:05:257 DashboardPage [INFO] Value-->true
+2024-05-13 18:05:219 LoginPage [INFO] Check for Login Page Display
+2024-05-13 18:05:488 LoginPage [INFO] Value-->true
+2024-05-13 18:05:146 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 18:05:148 CrossBrowser [INFO] read Config File
+2024-05-13 18:05:148 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 18:05:451 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 18:05:453 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 18:05:453 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 18:05:467 LoginTest [INFO] Login to Application 
+2024-05-13 18:05:750 DashboardPage [INFO] Verify the user displayed after login
+2024-05-13 18:05:37 DashboardPage [INFO] Value-->true
+2024-05-13 18:05:965 LoginPage [INFO] Check for Login Page Display
+2024-05-13 18:05:240 LoginPage [INFO] Value-->true
+2024-05-13 18:05:643 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 18:05:643 CrossBrowser [INFO] read Config File
+2024-05-13 18:05:643 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 18:05:463 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 18:05:466 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 18:05:466 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 18:05:468 LoginTest [INFO] Login to Application 
+2024-05-13 18:05:421 LoginPage [INFO] Check for error while login
+2024-05-13 18:05:701 LoginPage [INFO] Value-->true
+2024-05-13 18:05:701 LoginTest [INFO] Login not Successfull
+2024-05-13 18:05:153 LoginTest [INFO] Launch Browser and Open URL
+2024-05-13 18:05:154 CrossBrowser [INFO] read Config File
+2024-05-13 18:05:154 CrossBrowser [INFO] Get the Browser Typefirefox
+2024-05-13 18:05:51 CrossBrowser [INFO] Url Opened:https://opensource-demo.orangehrmlive.com/
+2024-05-13 18:05:54 CrossBrowser [INFO] Implicit Wait15
+2024-05-13 18:05:54 LoginTest [INFO] Initializing all Page Objects
+2024-05-13 18:05:55 LoginTest [INFO] click on forgot password link 
+2024-05-13 18:05:795 ForgotPasswordPage [INFO] Title displayed on Reset Password Page
+2024-05-13 18:05:469 LoginPage [INFO] Check for Login Page Display
+2024-05-13 18:05:783 LoginPage [INFO] Value-->true
